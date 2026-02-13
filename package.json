@@ -1,0 +1,16 @@
+{
+  "name": "dyk0d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dyk0d.js",
+  "bin": {
+    "dyk0d": "./dyk0d.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
